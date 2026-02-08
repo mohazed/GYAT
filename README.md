@@ -23,6 +23,7 @@ on va être assez transverse pour que chacun comprenne tout ce qui se passe mais
 ---
 
 ## 📅 Tableau de Bord & Avancement
+#un peu optimiste mais ça serait bien j'trouve
 
 **Comment utiliser ce tableau ?** Modifiez le fichier `README.md` et remplacez `[ ]` par `[x]` pour valider une étape.  
 *Exemple : `[x]` Tâche terminée.*
