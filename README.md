@@ -85,8 +85,8 @@ on va être assez transverse pour que chacun comprenne tout ce qui se passe mais
 
 ```bash
 # Cloner le repo
-git clone [https://github.com/votre-repo/gat-project.git](https://github.com/votre-repo/gat-project.git)
-cd gat-project
+git clone https://github.com/mohazed/GYAT
+cd GYAT
 
 # Installer les dépendances
 pip install -r requirements.txt
