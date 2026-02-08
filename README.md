@@ -12,7 +12,7 @@ L'objectif est de démontrer les limitations théoriques de la v1 et la supério
 
 ## 👥 L'Équipe (Groupe n° chepa encore combien) 
 
-on va être assez transverse pour chacun comprenne tout ce qui se passe mais déleguer une tâche facilite l'organisation et l'avancement en parallel (on espère)
+on va être assez transverse pour que chacun comprenne tout ce qui se passe mais déleguer une tâche facilite l'organisation et l'avancement en parallel (on espère)
 
 | Membre | Rôle Principal | GitHub |
 | :--- | :--- | :--- |
